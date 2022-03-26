@@ -55,5 +55,5 @@ This project was developed in Eclipse IDE and uploaded as an Eclipse project for
 
 As the project has already been compiled into an executable file, all you need to is:
 
-- Download the project and run Java Snake Desktop Application.exe
+- Download the project and run Java TicTacToe Desktop Application.exe
 - All other files are not required unless you wish to inspect the source code and documentation.
