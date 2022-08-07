@@ -1,6 +1,11 @@
 <img src="images/close.png" width="65" align="right" alt="Java Logo"></a>
+<br>
 
 # Java TicTacToe Desktop Application
+
+<p align="center" >
+ <img src="images/tic-tac-toe.png"  height="auto">
+</p>
 
 # Table of Contents
 
